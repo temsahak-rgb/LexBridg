@@ -1,0 +1,10 @@
+{
+  "id": "ch",
+  "label": "Switzerland (federal law)",
+  "supported_languages": ["de", "fr", "it"],
+  "domains": ["contracts", "corporate", "compliance"],
+  "sources": [
+    {"id": "fedlex", "name": "Fedlex", "url": "https://www.fedlex.admin.ch/", "status": "not-ingested"}
+  ],
+  "enabled_for_research": false
+}
